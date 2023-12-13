@@ -15,15 +15,15 @@ const config: DocsThemeConfig = {
       titleTemplate: 'Scoheart Blog'
     }
   },
-  // project: {
-  //   link: 'https://github.com/scoheart',
-  // },
+  project: {
+    link: 'https://github.com/chimera-skeleton/scoheart-nextra-blog',
+  },
   // chat: {
   //   link: 'https://discord.com/scoheart',
   // },
   search: {
     placeholder: "Search",
-    component: null,
+    // component: null,
   },
   // banner: {
   //   dismissible: false,
