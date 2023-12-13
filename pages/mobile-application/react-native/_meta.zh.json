@@ -1,5 +1,7 @@
 {
   "config": "开发环境配置",
   "router": "路由管理",
-  "component-lib": "组件库使用"
+  "component-lib": "lib use",
+  "error": "error",
+  "lib":"lib"
 }

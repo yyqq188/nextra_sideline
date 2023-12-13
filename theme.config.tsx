@@ -15,24 +15,25 @@ const config: DocsThemeConfig = {
       titleTemplate: 'Scoheart Blog'
     }
   },
-  project: {
-    link: 'https://github.com/scoheart',
-  },
-  chat: {
-    link: 'https://discord.com/scoheart',
-  },
+  // project: {
+  //   link: 'https://github.com/scoheart',
+  // },
+  // chat: {
+  //   link: 'https://discord.com/scoheart',
+  // },
   search: {
-    placeholder: "Search"
+    placeholder: "Search",
+    component: null,
   },
-  banner: {
-    dismissible: false,
-    key: '1',
-    text: (
-      <a href="https://github.com/scoheart" target="_blank">
-        🎉 Scoheart Github. Read more →
-      </a>
-    )
-  },
+  // banner: {
+  //   dismissible: false,
+  //   key: '1',
+  //   text: (
+  //     <a href="https://github.com/scoheart" target="_blank">
+  //       🎉 Scoheart Github. Read more →
+  //     </a>
+  //   )
+  // },
   navbar: {
     extraContent: (
       null

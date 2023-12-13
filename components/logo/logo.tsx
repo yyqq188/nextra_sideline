@@ -7,12 +7,12 @@ export default function Logo(): ReactElement {
         <div className={style.wrapper}>
             <Image
                 className={style.logo}
-                src="/scoheart.svg"
+                src="/logo2.jpeg"
                 alt="deno"
                 width={40}
                 height={40}
             ></Image>
-            <h1>Heart ☘️ Sco</h1>
+            <h1>yyqq188</h1>
         </div >
     )
 }
