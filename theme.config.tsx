@@ -5,7 +5,7 @@ import style from "./theme.module.css";
 
 const config: DocsThemeConfig = {
   logo: (<Logo></Logo>),
-  docsRepositoryBase: 'https://github.com/chimera-skeleton/scoheart-nextra-blog/issues',
+  docsRepositoryBase: 'https://github.com/yyqq188/issues',
   primaryHue: {
       dark: 180,
       light: 280
@@ -16,7 +16,7 @@ const config: DocsThemeConfig = {
     }
   },
   project: {
-    link: 'https://github.com/chimera-skeleton/scoheart-nextra-blog',
+    link: 'https://github.com/yyqq188',
   },
   // chat: {
   //   link: 'https://discord.com/scoheart',

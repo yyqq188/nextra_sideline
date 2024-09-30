@@ -10,21 +10,51 @@
       "pagination": false
     }
   },
-  
-
-  "- mobile": {
-    "title": "移动开发",
-    "type": "separator"
-  },
-  "mobile-application": {
-    "title":"移动开发",
+  "install": {
+    "title":"博客项目安装",
     "theme": {
       "breadcrumb": false,
       "footer": false,
       "sidebar": true,
       "toc": false,
       "pagination": false
-    }
+    },
+    "type": "separator"
+  },
+  "front": {
+    "title":"前端",
+    "theme": {
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": true,
+      "toc": false,
+      "pagination": false
+    },
+    "type": "separator"
+  },
+  "quant": {
+    "title":"量化",
+    "theme": {
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": true,
+      "toc": false,
+      "pagination": false
+    },
+    "type": "separator"
+  },
+  "think": {
+    "title":"深度思考",
+    "theme": {
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": true,
+      "toc": false,
+      "pagination": false
+    },
+    "type": "separator"
   }
+  
+  
  
 }
