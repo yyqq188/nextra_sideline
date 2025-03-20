@@ -76,7 +76,7 @@ const config: DocsThemeConfig = {
       </span>
     ),
   },
-  faviconGlyph: "👻"
+  faviconGlyph: "👨‍💻"
 }
 
 export default config
