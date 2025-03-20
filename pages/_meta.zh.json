@@ -12,48 +12,9 @@
   },
   "install": {
     "title":"博客项目安装",
-    "theme": {
-      "breadcrumb": false,
-      "footer": false,
-      "sidebar": true,
-      "toc": false,
-      "pagination": false
-    },
-    "type": "separator"
-  },
-  "front": {
-    "title":"前端",
-    "theme": {
-      "breadcrumb": false,
-      "footer": false,
-      "sidebar": true,
-      "toc": false,
-      "pagination": false
-    },
-    "type": "separator"
-  },
-  "quant": {
-    "title":"化化",
-    "theme": {
-      "breadcrumb": false,
-      "footer": false,
-      "sidebar": true,
-      "toc": false,
-      "pagination": false
-    },
-    "type": "separator"
-  },
-  "think": {
-    "title":"深度思考",
-    "theme": {
-      "breadcrumb": false,
-      "footer": false,
-      "sidebar": true,
-      "toc": false,
-      "pagination": false
-    },
     "type": "separator"
   }
+  
   
   
  
